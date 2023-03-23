@@ -1,8 +1,5 @@
 ![Coconut Consolidation](media/CoconutConsolidation.png)
 
-# v1.04 Note
-This is only compatible with the 1.04 beta called "updatebranch" in Steam.
-
 # Consolidate Liquid
 Consolidates all liquids into as few of containers as possible.  Great for consolidating many coconuts of water.
 
